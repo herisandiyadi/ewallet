@@ -165,7 +165,10 @@ String formatUtcDate(String utc) {
 
 | Wallet View | Add Transaction | Dark Mode |
 |-------------|------------------|-----------|
-| ![Wallet](screenshots/wallet.png) | ![Add Tx](screenshots/add_transaction.png) | ![Dark](screenshots/dark_mode.png) |
+| ![Wallet](![Screenshot_1749679841](https://github.com/user-attachments/assets/880595c5-2df6-4601-ac7c-798e5c1a51fd)
+) | ![Preview Tx](![Screenshot_1749679841](https://github.com/user-attachments/assets/addcdc86-57fd-40f8-87cb-d52023ae7c5a)
+) | ![Dark](![Screenshot_1749679793](https://github.com/user-attachments/assets/105029e7-9292-4606-819c-1577fb603013))
+ |
 
 ---
 
