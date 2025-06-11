@@ -163,12 +163,7 @@ String formatUtcDate(String utc) {
 
 ## 📸 Screenshots
 
-| Wallet View | Add Transaction | Dark Mode |
-|-------------|------------------|-----------|
-| ![Wallet](![Screenshot_1749679841](https://github.com/user-attachments/assets/880595c5-2df6-4601-ac7c-798e5c1a51fd)
-) | ![Preview Tx](![Screenshot_1749679841](https://github.com/user-attachments/assets/addcdc86-57fd-40f8-87cb-d52023ae7c5a)
-) | ![Dark](![Screenshot_1749679793](https://github.com/user-attachments/assets/105029e7-9292-4606-819c-1577fb603013))
- |
+<table> <tr> <th>Wallet View</th> <th>Add Transaction</th> <th>Dark Mode</th> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/880595c5-2df6-4601-ac7c-798e5c1a51fd" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/addcdc86-57fd-40f8-87cb-d52023ae7c5a" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/105029e7-9292-4606-819c-1577fb603013" width="250"/></td> </tr> </table>
 
 ---
 
