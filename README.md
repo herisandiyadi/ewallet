@@ -22,8 +22,8 @@ A modern and intuitive e-wallet application built using **Flutter**. It allows u
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/e-wallet-app.git
-cd e-wallet-app
+git clone https://github.com/herisandiyadi/ewallet.git
+cd ewallet
 ```
 
 ### 2. Install dependencies
