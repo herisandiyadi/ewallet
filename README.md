@@ -164,7 +164,8 @@ String formatUtcDate(String utc) {
 
 ## 📸 Screenshots
 
-<table> <tr> <th>List Wallet View</th> <th> Detail Transaction</th> <th>Dark Mode</th> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/fc5f8106-b3d1-4373-9527-c49f11cacbfe" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/addcdc86-57fd-40f8-87cb-d52023ae7c5a" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/105029e7-9292-4606-819c-1577fb603013" width="250"/></td> </tr> </table>
+<table> <tr> <th>List Wallet View</th> <th> Detail Transaction</th> <th>Dark Mode</th> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/fc5f8106-b3d1-4373-9527-c49f11cacbfe" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/addcdc86-57fd-40f8-87cb-d52023ae7c5a" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/e5042737-d8b8-4cb5-9695-57ef6d8ec2ae" width="250"/></td> </tr> </table>
+
 
 ---
 
